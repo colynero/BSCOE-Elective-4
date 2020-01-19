@@ -40,23 +40,23 @@ Partial Class Form1
         Me.Button14 = New System.Windows.Forms.Button()
         Me.Button15 = New System.Windows.Forms.Button()
         Me.Button16 = New System.Windows.Forms.Button()
-        Me.Button17 = New System.Windows.Forms.Button()
-        Me.Button18 = New System.Windows.Forms.Button()
-        Me.Button19 = New System.Windows.Forms.Button()
+        Me.num7 = New System.Windows.Forms.Button()
+        Me.num8 = New System.Windows.Forms.Button()
+        Me.num9 = New System.Windows.Forms.Button()
         Me.Button20 = New System.Windows.Forms.Button()
         Me.Button21 = New System.Windows.Forms.Button()
-        Me.Button22 = New System.Windows.Forms.Button()
-        Me.Button23 = New System.Windows.Forms.Button()
-        Me.Button24 = New System.Windows.Forms.Button()
+        Me.num4 = New System.Windows.Forms.Button()
+        Me.num5 = New System.Windows.Forms.Button()
+        Me.num6 = New System.Windows.Forms.Button()
         Me.Button25 = New System.Windows.Forms.Button()
         Me.Button26 = New System.Windows.Forms.Button()
-        Me.Button27 = New System.Windows.Forms.Button()
-        Me.Button28 = New System.Windows.Forms.Button()
-        Me.Button29 = New System.Windows.Forms.Button()
+        Me.num1 = New System.Windows.Forms.Button()
+        Me.num2 = New System.Windows.Forms.Button()
+        Me.num3 = New System.Windows.Forms.Button()
         Me.Button30 = New System.Windows.Forms.Button()
         Me.Button31 = New System.Windows.Forms.Button()
         Me.Button32 = New System.Windows.Forms.Button()
-        Me.Button33 = New System.Windows.Forms.Button()
+        Me.num0 = New System.Windows.Forms.Button()
         Me.Button34 = New System.Windows.Forms.Button()
         Me.Button35 = New System.Windows.Forms.Button()
         Me.BackgroundWorker1 = New System.ComponentModel.BackgroundWorker()
@@ -72,7 +72,7 @@ Partial Class Form1
         Me.Button43 = New System.Windows.Forms.Button()
         Me.Button44 = New System.Windows.Forms.Button()
         Me.Button45 = New System.Windows.Forms.Button()
-        Me.Label1 = New System.Windows.Forms.Label()
+        Me.Display = New System.Windows.Forms.Label()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Button46 = New System.Windows.Forms.Button()
         Me.FlowLayoutPanel1.SuspendLayout()
@@ -98,23 +98,23 @@ Partial Class Form1
         Me.FlowLayoutPanel1.Controls.Add(Me.Button14)
         Me.FlowLayoutPanel1.Controls.Add(Me.Button15)
         Me.FlowLayoutPanel1.Controls.Add(Me.Button16)
-        Me.FlowLayoutPanel1.Controls.Add(Me.Button17)
-        Me.FlowLayoutPanel1.Controls.Add(Me.Button18)
-        Me.FlowLayoutPanel1.Controls.Add(Me.Button19)
+        Me.FlowLayoutPanel1.Controls.Add(Me.num7)
+        Me.FlowLayoutPanel1.Controls.Add(Me.num8)
+        Me.FlowLayoutPanel1.Controls.Add(Me.num9)
         Me.FlowLayoutPanel1.Controls.Add(Me.Button20)
         Me.FlowLayoutPanel1.Controls.Add(Me.Button21)
-        Me.FlowLayoutPanel1.Controls.Add(Me.Button22)
-        Me.FlowLayoutPanel1.Controls.Add(Me.Button23)
-        Me.FlowLayoutPanel1.Controls.Add(Me.Button24)
+        Me.FlowLayoutPanel1.Controls.Add(Me.num4)
+        Me.FlowLayoutPanel1.Controls.Add(Me.num5)
+        Me.FlowLayoutPanel1.Controls.Add(Me.num6)
         Me.FlowLayoutPanel1.Controls.Add(Me.Button25)
         Me.FlowLayoutPanel1.Controls.Add(Me.Button26)
-        Me.FlowLayoutPanel1.Controls.Add(Me.Button27)
-        Me.FlowLayoutPanel1.Controls.Add(Me.Button28)
-        Me.FlowLayoutPanel1.Controls.Add(Me.Button29)
+        Me.FlowLayoutPanel1.Controls.Add(Me.num1)
+        Me.FlowLayoutPanel1.Controls.Add(Me.num2)
+        Me.FlowLayoutPanel1.Controls.Add(Me.num3)
         Me.FlowLayoutPanel1.Controls.Add(Me.Button30)
         Me.FlowLayoutPanel1.Controls.Add(Me.Button31)
         Me.FlowLayoutPanel1.Controls.Add(Me.Button32)
-        Me.FlowLayoutPanel1.Controls.Add(Me.Button33)
+        Me.FlowLayoutPanel1.Controls.Add(Me.num0)
         Me.FlowLayoutPanel1.Controls.Add(Me.Button34)
         Me.FlowLayoutPanel1.Controls.Add(Me.Button35)
         Me.FlowLayoutPanel1.Location = New System.Drawing.Point(4, 191)
@@ -347,47 +347,47 @@ Partial Class Form1
         Me.Button16.Text = "π"
         Me.Button16.UseVisualStyleBackColor = False
         '
-        'Button17
+        'num7
         '
-        Me.Button17.BackColor = System.Drawing.Color.White
-        Me.Button17.FlatAppearance.BorderColor = System.Drawing.Color.Silver
-        Me.Button17.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button17.Font = New System.Drawing.Font("Segoe UI", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button17.Location = New System.Drawing.Point(60, 120)
-        Me.Button17.Margin = New System.Windows.Forms.Padding(0)
-        Me.Button17.Name = "Button17"
-        Me.Button17.Size = New System.Drawing.Size(60, 40)
-        Me.Button17.TabIndex = 16
-        Me.Button17.Text = "7"
-        Me.Button17.UseVisualStyleBackColor = False
+        Me.num7.BackColor = System.Drawing.Color.White
+        Me.num7.FlatAppearance.BorderColor = System.Drawing.Color.Silver
+        Me.num7.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.num7.Font = New System.Drawing.Font("Segoe UI", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.num7.Location = New System.Drawing.Point(60, 120)
+        Me.num7.Margin = New System.Windows.Forms.Padding(0)
+        Me.num7.Name = "num7"
+        Me.num7.Size = New System.Drawing.Size(60, 40)
+        Me.num7.TabIndex = 16
+        Me.num7.Text = "7"
+        Me.num7.UseVisualStyleBackColor = False
         '
-        'Button18
+        'num8
         '
-        Me.Button18.BackColor = System.Drawing.Color.White
-        Me.Button18.FlatAppearance.BorderColor = System.Drawing.Color.Silver
-        Me.Button18.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button18.Font = New System.Drawing.Font("Segoe UI", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button18.Location = New System.Drawing.Point(120, 120)
-        Me.Button18.Margin = New System.Windows.Forms.Padding(0)
-        Me.Button18.Name = "Button18"
-        Me.Button18.Size = New System.Drawing.Size(60, 40)
-        Me.Button18.TabIndex = 17
-        Me.Button18.Text = "8"
-        Me.Button18.UseVisualStyleBackColor = False
+        Me.num8.BackColor = System.Drawing.Color.White
+        Me.num8.FlatAppearance.BorderColor = System.Drawing.Color.Silver
+        Me.num8.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.num8.Font = New System.Drawing.Font("Segoe UI", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.num8.Location = New System.Drawing.Point(120, 120)
+        Me.num8.Margin = New System.Windows.Forms.Padding(0)
+        Me.num8.Name = "num8"
+        Me.num8.Size = New System.Drawing.Size(60, 40)
+        Me.num8.TabIndex = 17
+        Me.num8.Text = "8"
+        Me.num8.UseVisualStyleBackColor = False
         '
-        'Button19
+        'num9
         '
-        Me.Button19.BackColor = System.Drawing.Color.White
-        Me.Button19.FlatAppearance.BorderColor = System.Drawing.Color.Silver
-        Me.Button19.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button19.Font = New System.Drawing.Font("Segoe UI", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button19.Location = New System.Drawing.Point(180, 120)
-        Me.Button19.Margin = New System.Windows.Forms.Padding(0)
-        Me.Button19.Name = "Button19"
-        Me.Button19.Size = New System.Drawing.Size(60, 40)
-        Me.Button19.TabIndex = 18
-        Me.Button19.Text = "9"
-        Me.Button19.UseVisualStyleBackColor = False
+        Me.num9.BackColor = System.Drawing.Color.White
+        Me.num9.FlatAppearance.BorderColor = System.Drawing.Color.Silver
+        Me.num9.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.num9.Font = New System.Drawing.Font("Segoe UI", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.num9.Location = New System.Drawing.Point(180, 120)
+        Me.num9.Margin = New System.Windows.Forms.Padding(0)
+        Me.num9.Name = "num9"
+        Me.num9.Size = New System.Drawing.Size(60, 40)
+        Me.num9.TabIndex = 18
+        Me.num9.Text = "9"
+        Me.num9.UseVisualStyleBackColor = False
         '
         'Button20
         '
@@ -417,47 +417,47 @@ Partial Class Form1
         Me.Button21.Text = "n!"
         Me.Button21.UseVisualStyleBackColor = False
         '
-        'Button22
+        'num4
         '
-        Me.Button22.BackColor = System.Drawing.Color.White
-        Me.Button22.FlatAppearance.BorderColor = System.Drawing.Color.Silver
-        Me.Button22.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button22.Font = New System.Drawing.Font("Segoe UI", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button22.Location = New System.Drawing.Point(60, 160)
-        Me.Button22.Margin = New System.Windows.Forms.Padding(0)
-        Me.Button22.Name = "Button22"
-        Me.Button22.Size = New System.Drawing.Size(60, 40)
-        Me.Button22.TabIndex = 21
-        Me.Button22.Text = "4"
-        Me.Button22.UseVisualStyleBackColor = False
+        Me.num4.BackColor = System.Drawing.Color.White
+        Me.num4.FlatAppearance.BorderColor = System.Drawing.Color.Silver
+        Me.num4.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.num4.Font = New System.Drawing.Font("Segoe UI", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.num4.Location = New System.Drawing.Point(60, 160)
+        Me.num4.Margin = New System.Windows.Forms.Padding(0)
+        Me.num4.Name = "num4"
+        Me.num4.Size = New System.Drawing.Size(60, 40)
+        Me.num4.TabIndex = 21
+        Me.num4.Text = "4"
+        Me.num4.UseVisualStyleBackColor = False
         '
-        'Button23
+        'num5
         '
-        Me.Button23.BackColor = System.Drawing.Color.White
-        Me.Button23.FlatAppearance.BorderColor = System.Drawing.Color.Silver
-        Me.Button23.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button23.Font = New System.Drawing.Font("Segoe UI", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button23.Location = New System.Drawing.Point(120, 160)
-        Me.Button23.Margin = New System.Windows.Forms.Padding(0)
-        Me.Button23.Name = "Button23"
-        Me.Button23.Size = New System.Drawing.Size(60, 40)
-        Me.Button23.TabIndex = 22
-        Me.Button23.Text = "5"
-        Me.Button23.UseVisualStyleBackColor = False
+        Me.num5.BackColor = System.Drawing.Color.White
+        Me.num5.FlatAppearance.BorderColor = System.Drawing.Color.Silver
+        Me.num5.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.num5.Font = New System.Drawing.Font("Segoe UI", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.num5.Location = New System.Drawing.Point(120, 160)
+        Me.num5.Margin = New System.Windows.Forms.Padding(0)
+        Me.num5.Name = "num5"
+        Me.num5.Size = New System.Drawing.Size(60, 40)
+        Me.num5.TabIndex = 22
+        Me.num5.Text = "5"
+        Me.num5.UseVisualStyleBackColor = False
         '
-        'Button24
+        'num6
         '
-        Me.Button24.BackColor = System.Drawing.Color.White
-        Me.Button24.FlatAppearance.BorderColor = System.Drawing.Color.Silver
-        Me.Button24.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button24.Font = New System.Drawing.Font("Segoe UI", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button24.Location = New System.Drawing.Point(180, 160)
-        Me.Button24.Margin = New System.Windows.Forms.Padding(0)
-        Me.Button24.Name = "Button24"
-        Me.Button24.Size = New System.Drawing.Size(60, 40)
-        Me.Button24.TabIndex = 23
-        Me.Button24.Text = "6"
-        Me.Button24.UseVisualStyleBackColor = False
+        Me.num6.BackColor = System.Drawing.Color.White
+        Me.num6.FlatAppearance.BorderColor = System.Drawing.Color.Silver
+        Me.num6.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.num6.Font = New System.Drawing.Font("Segoe UI", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.num6.Location = New System.Drawing.Point(180, 160)
+        Me.num6.Margin = New System.Windows.Forms.Padding(0)
+        Me.num6.Name = "num6"
+        Me.num6.Size = New System.Drawing.Size(60, 40)
+        Me.num6.TabIndex = 23
+        Me.num6.Text = "6"
+        Me.num6.UseVisualStyleBackColor = False
         '
         'Button25
         '
@@ -487,47 +487,47 @@ Partial Class Form1
         Me.Button26.Text = "+/-"
         Me.Button26.UseVisualStyleBackColor = False
         '
-        'Button27
+        'num1
         '
-        Me.Button27.BackColor = System.Drawing.Color.White
-        Me.Button27.FlatAppearance.BorderColor = System.Drawing.Color.Silver
-        Me.Button27.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button27.Font = New System.Drawing.Font("Segoe UI", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button27.Location = New System.Drawing.Point(60, 200)
-        Me.Button27.Margin = New System.Windows.Forms.Padding(0)
-        Me.Button27.Name = "Button27"
-        Me.Button27.Size = New System.Drawing.Size(60, 40)
-        Me.Button27.TabIndex = 26
-        Me.Button27.Text = "1"
-        Me.Button27.UseVisualStyleBackColor = False
+        Me.num1.BackColor = System.Drawing.Color.White
+        Me.num1.FlatAppearance.BorderColor = System.Drawing.Color.Silver
+        Me.num1.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.num1.Font = New System.Drawing.Font("Segoe UI", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.num1.Location = New System.Drawing.Point(60, 200)
+        Me.num1.Margin = New System.Windows.Forms.Padding(0)
+        Me.num1.Name = "num1"
+        Me.num1.Size = New System.Drawing.Size(60, 40)
+        Me.num1.TabIndex = 26
+        Me.num1.Text = "1"
+        Me.num1.UseVisualStyleBackColor = False
         '
-        'Button28
+        'num2
         '
-        Me.Button28.BackColor = System.Drawing.Color.White
-        Me.Button28.FlatAppearance.BorderColor = System.Drawing.Color.Silver
-        Me.Button28.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button28.Font = New System.Drawing.Font("Segoe UI", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button28.Location = New System.Drawing.Point(120, 200)
-        Me.Button28.Margin = New System.Windows.Forms.Padding(0)
-        Me.Button28.Name = "Button28"
-        Me.Button28.Size = New System.Drawing.Size(60, 40)
-        Me.Button28.TabIndex = 27
-        Me.Button28.Text = "2"
-        Me.Button28.UseVisualStyleBackColor = False
+        Me.num2.BackColor = System.Drawing.Color.White
+        Me.num2.FlatAppearance.BorderColor = System.Drawing.Color.Silver
+        Me.num2.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.num2.Font = New System.Drawing.Font("Segoe UI", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.num2.Location = New System.Drawing.Point(120, 200)
+        Me.num2.Margin = New System.Windows.Forms.Padding(0)
+        Me.num2.Name = "num2"
+        Me.num2.Size = New System.Drawing.Size(60, 40)
+        Me.num2.TabIndex = 27
+        Me.num2.Text = "2"
+        Me.num2.UseVisualStyleBackColor = False
         '
-        'Button29
+        'num3
         '
-        Me.Button29.BackColor = System.Drawing.Color.White
-        Me.Button29.FlatAppearance.BorderColor = System.Drawing.Color.Silver
-        Me.Button29.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button29.Font = New System.Drawing.Font("Segoe UI", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button29.Location = New System.Drawing.Point(180, 200)
-        Me.Button29.Margin = New System.Windows.Forms.Padding(0)
-        Me.Button29.Name = "Button29"
-        Me.Button29.Size = New System.Drawing.Size(60, 40)
-        Me.Button29.TabIndex = 28
-        Me.Button29.Text = "3"
-        Me.Button29.UseVisualStyleBackColor = False
+        Me.num3.BackColor = System.Drawing.Color.White
+        Me.num3.FlatAppearance.BorderColor = System.Drawing.Color.Silver
+        Me.num3.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.num3.Font = New System.Drawing.Font("Segoe UI", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.num3.Location = New System.Drawing.Point(180, 200)
+        Me.num3.Margin = New System.Windows.Forms.Padding(0)
+        Me.num3.Name = "num3"
+        Me.num3.Size = New System.Drawing.Size(60, 40)
+        Me.num3.TabIndex = 28
+        Me.num3.Text = "3"
+        Me.num3.UseVisualStyleBackColor = False
         '
         'Button30
         '
@@ -571,19 +571,19 @@ Partial Class Form1
         Me.Button32.Text = ")"
         Me.Button32.UseVisualStyleBackColor = False
         '
-        'Button33
+        'num0
         '
-        Me.Button33.BackColor = System.Drawing.Color.White
-        Me.Button33.FlatAppearance.BorderColor = System.Drawing.Color.Silver
-        Me.Button33.FlatStyle = System.Windows.Forms.FlatStyle.Flat
-        Me.Button33.Font = New System.Drawing.Font("Segoe UI", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button33.Location = New System.Drawing.Point(120, 240)
-        Me.Button33.Margin = New System.Windows.Forms.Padding(0)
-        Me.Button33.Name = "Button33"
-        Me.Button33.Size = New System.Drawing.Size(60, 40)
-        Me.Button33.TabIndex = 32
-        Me.Button33.Text = "0"
-        Me.Button33.UseVisualStyleBackColor = False
+        Me.num0.BackColor = System.Drawing.Color.White
+        Me.num0.FlatAppearance.BorderColor = System.Drawing.Color.Silver
+        Me.num0.FlatStyle = System.Windows.Forms.FlatStyle.Flat
+        Me.num0.Font = New System.Drawing.Font("Segoe UI", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.num0.Location = New System.Drawing.Point(120, 240)
+        Me.num0.Margin = New System.Windows.Forms.Padding(0)
+        Me.num0.Name = "num0"
+        Me.num0.Size = New System.Drawing.Size(60, 40)
+        Me.num0.TabIndex = 32
+        Me.num0.Text = "0"
+        Me.num0.UseVisualStyleBackColor = False
         '
         'Button34
         '
@@ -771,15 +771,15 @@ Partial Class Form1
         Me.Button45.TextAlign = System.Drawing.ContentAlignment.TopCenter
         Me.Button45.UseVisualStyleBackColor = False
         '
-        'Label1
+        'Display
         '
-        Me.Label1.AutoSize = True
-        Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(277, 73)
-        Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(27, 29)
-        Me.Label1.TabIndex = 4
-        Me.Label1.Text = "0"
+        Me.Display.AutoSize = True
+        Me.Display.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Display.Location = New System.Drawing.Point(277, 73)
+        Me.Display.Name = "Display"
+        Me.Display.Size = New System.Drawing.Size(0, 29)
+        Me.Display.TabIndex = 4
+        Me.Display.TextAlign = System.Drawing.ContentAlignment.MiddleRight
         '
         'Label2
         '
@@ -812,7 +812,7 @@ Partial Class Form1
         Me.ClientSize = New System.Drawing.Size(308, 473)
         Me.Controls.Add(Me.Button46)
         Me.Controls.Add(Me.Label2)
-        Me.Controls.Add(Me.Label1)
+        Me.Controls.Add(Me.Display)
         Me.Controls.Add(Me.Button45)
         Me.Controls.Add(Me.FlowLayoutPanel3)
         Me.Controls.Add(Me.FlowLayoutPanel2)
@@ -847,23 +847,23 @@ Partial Class Form1
     Friend WithEvents Button14 As Button
     Friend WithEvents Button15 As Button
     Friend WithEvents Button16 As Button
-    Friend WithEvents Button17 As Button
-    Friend WithEvents Button18 As Button
-    Friend WithEvents Button19 As Button
+    Friend WithEvents num7 As Button
+    Friend WithEvents num8 As Button
+    Friend WithEvents num9 As Button
     Friend WithEvents Button20 As Button
     Friend WithEvents Button21 As Button
-    Friend WithEvents Button22 As Button
-    Friend WithEvents Button23 As Button
-    Friend WithEvents Button24 As Button
+    Friend WithEvents num4 As Button
+    Friend WithEvents num5 As Button
+    Friend WithEvents num6 As Button
     Friend WithEvents Button25 As Button
     Friend WithEvents Button26 As Button
-    Friend WithEvents Button27 As Button
-    Friend WithEvents Button28 As Button
-    Friend WithEvents Button29 As Button
+    Friend WithEvents num1 As Button
+    Friend WithEvents num2 As Button
+    Friend WithEvents num3 As Button
     Friend WithEvents Button30 As Button
     Friend WithEvents Button31 As Button
     Friend WithEvents Button32 As Button
-    Friend WithEvents Button33 As Button
+    Friend WithEvents num0 As Button
     Friend WithEvents Button34 As Button
     Friend WithEvents Button35 As Button
     Friend WithEvents BackgroundWorker1 As System.ComponentModel.BackgroundWorker
@@ -879,7 +879,7 @@ Partial Class Form1
     Friend WithEvents Button43 As Button
     Friend WithEvents Button44 As Button
     Friend WithEvents Button45 As Button
-    Friend WithEvents Label1 As Label
+    Friend WithEvents Display As Label
     Friend WithEvents Label2 As Label
     Friend WithEvents Button46 As Button
 End Class
