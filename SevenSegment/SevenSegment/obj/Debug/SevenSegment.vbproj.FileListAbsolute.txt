@@ -1,0 +1,11 @@
+C:\Users\Colyn Atencio\source\repos\SevenSegment\SevenSegment\bin\Debug\SevenSegment.exe.config
+C:\Users\Colyn Atencio\source\repos\SevenSegment\SevenSegment\bin\Debug\SevenSegment.exe
+C:\Users\Colyn Atencio\source\repos\SevenSegment\SevenSegment\bin\Debug\SevenSegment.pdb
+C:\Users\Colyn Atencio\source\repos\SevenSegment\SevenSegment\bin\Debug\SevenSegment.xml
+C:\Users\Colyn Atencio\source\repos\SevenSegment\SevenSegment\obj\Debug\SevenSegment.vbprojAssemblyReference.cache
+C:\Users\Colyn Atencio\source\repos\SevenSegment\SevenSegment\obj\Debug\SevenSegment.Form1.resources
+C:\Users\Colyn Atencio\source\repos\SevenSegment\SevenSegment\obj\Debug\SevenSegment.Resources.resources
+C:\Users\Colyn Atencio\source\repos\SevenSegment\SevenSegment\obj\Debug\SevenSegment.vbproj.GenerateResource.cache
+C:\Users\Colyn Atencio\source\repos\SevenSegment\SevenSegment\obj\Debug\SevenSegment.exe
+C:\Users\Colyn Atencio\source\repos\SevenSegment\SevenSegment\obj\Debug\SevenSegment.xml
+C:\Users\Colyn Atencio\source\repos\SevenSegment\SevenSegment\obj\Debug\SevenSegment.pdb
